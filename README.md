@@ -1,1 +1,3 @@
 # NeuroQuest_oop_project
+
+The NeuroQuest project is a console-based adaptive educational quiz application developed using Java and Object-Oriented Programming principles. The application provides both multiple-choice and true/false questions. During gameplay, it evaluates each answer, tracks the player's performance, calculates overall accuracy, and automatically adjusts the difficulty level to match the player's progress. The game also displays a final performance grade and feedback message after all questions have been answered. This adaptive behavior is implemented through the game engine and player performance calculations in the project.
